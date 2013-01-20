@@ -9,9 +9,9 @@ Comment[de]=Ein Skript welches mehr als 800 deutsche (Web) Radiosender zur Verf�
 #Comment[lu]=Skript poskytující více než 800 německých internetových rozhlasových stanic
 
 X-KDE-PluginInfo-Author=Achim Schaefer
-X-KDE-PluginInfo-Email=achim_scahefer@gmx.de
+X-KDE-PluginInfo-Email=achim_schaefer@gmx.de
 X-KDE-PluginInfo-Name=Radio Luxemburg
-X-KDE-PluginInfo-Version=0.01
+X-KDE-PluginInfo-Version=0.02
 X-KDE-PluginInfo-Category=Scriptable Service
 X-KDE-PluginInfo-Depends=Amarok2.0
 X-KDE-PluginInfo-License=LGPL
